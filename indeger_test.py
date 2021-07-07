@@ -7,7 +7,7 @@ Created on Sun Jul  4 17:56:00 2021
 from PrograAsgm import createfr,SelectBestFit,FitModel
 import unittest
 import pandas as pd
-import sys
+
 
 '''
 
